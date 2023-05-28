@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-🌱 I'm currently learning web development: React/TypeScript/REST/GraphQL/Node (oh, there's so much to learn!)
+👨🏻‍💻 My name is `Arthur V. M. Dantas` and I'm from Brazil.
 
-📫 You can reach me on Twitter: [@arthurvmdantas](https://twitter.com/arthurvmdantas)
+🚀 My stack: Node/React/TypeScript
 
-📕 My personal website: http://arthurvmvdantas.work
+📫 Twitter: [@arthurvmdantas](https://twitter.com/arthurvmdantas)
+
+📕 Personal website: https://arthurvmvdantas.work
 <!--
 **arthurvmdantas/arthurvmdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
