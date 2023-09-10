@@ -7,6 +7,9 @@
 📫 Twitter: [@arthurvmdantas](https://twitter.com/arthurvmdantas)
 
 📕 Personal website: https://arthurvmvdantas.work
+
+🌱 Advent of Code 2022: https://stackblitz.com/edit/avmd-aoc-2022/?file=README.md
+
 <!--
 **arthurvmdantas/arthurvmdantas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
